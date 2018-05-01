@@ -31,4 +31,5 @@ We assessed knowledge currently available at our respective agencies and how suc
 
 To learn more about the team and the program which inspired this playbook, check out the [About](/about) page.
 
+# Sources
 [^1]: <a class="usa-external_link" href="https://www.opm.gov/policy-data-oversight/data-analysis-documentation/federal-employment-reports/reports-publications/profile-of-federal-civilian-non-postal-employees/">Profile of Federal Civilian Non-Postal Employees</a>
