@@ -18,4 +18,5 @@ jekyll serve
 ````
 
 # Contributing
-See [Contributing](https://github.com/mvogelgesang/teamKnow/Contributing.md)
+See [Contributing](https://github.com/mvogelgesang/teamKnow/blob/master/CONTRIBUTING.md)
+

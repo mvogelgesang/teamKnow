@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+- 2.2
+
+install:
+- bundle install
+script: bundle exec jekyll build
+
+branches:
+  only:
+  - working
+
+exclude: [vendor]

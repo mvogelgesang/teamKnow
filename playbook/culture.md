@@ -9,8 +9,10 @@ subnav:
     href: '#overview'
   - text: Plays
     href: '#plays'
-  - text: Start Small
-    href: '#start-small'
+  - text: Lightweight Tools
+    href: '#lightweight-tools'
+  - text: Start Within Your Team
+    href: '#start-within-your-team'
   - text: Integrate Knowledge Management into Orientation
     href: '#integrate-knowledge-management-into-orientation'
   - text: Refer to it Constantly
@@ -21,15 +23,18 @@ subnav:
     href: '#lunch-n-learns'
   - text: Lean Coffee
     href: '#lean-coffee'
-  - text: Resources
-    href: '#resources'
+  - text: Sources
+    href: '#sources'
 ---
 
 # Overview
 Establishing and maintaining a culture of knowledge management and sharing is vital to the success of any program.
 
 # Plays
-## Start Small
+## Lightweight Tools
+Rather than focusing on buying new software to start, evaluate what tools are readily available to get the ball rolling. Does your organization use Google Docs or Microsoft 365? If so, start by compiling information into one or a small handful of documents. At this point, perfection isn't the goal- you simply want folks entering information and collaborating. Once the team has embraced a lightweight solution, you can brainstorm around needs that may be addressed by knowledge management-specific tools.
+
+## Start Within Your Team
 Big bang process roll-outs rarely work so we recommend starting small within one's branch. Start by discussing the current challenges faced by team members and assign content to members of the team who have knowledge in a given area. If a lot of knowledge is concentrated with one or a small handful of individuals, have members of the team shadow and document processes. Doing so reduces the burden on the knowledge holders and cross-trains staff. Once documented, another team member should follow the guide and identify any stumbling blocks. When one is defined, the content should be updated by the team member performing the operation.
 
 As members of the team become familiar with the knowledge management system, opportunities for collaboration with other teams will arise. This is a great way to share your current system with the other team and encourage them to utilize the tool as well. When starting to engage the new team, grant editing privileges from the get go- doing so ensures that both groups have a sense of shared ownership.
@@ -75,10 +80,6 @@ A Lean Coffee(tm) is a type of meeting where the agenda is set at the start and 
 - The facilitator and will work to make sure that everyone can provide input. If you’re having trouble jumping into the conversation, make eye contact or signal to the facilitator.
 - At the end of the 5 minutes, the moderator will put their fist out to indicate that the 5 minutes are up. Attendees will give a or to denote whether or not they want to continue the discussion. If there are a majority of thumbs down or no response, we will jump to the next topic. If the conversation is lively and we have thumbs up, the facilitator will reset the timer and we’ll continue for another 5 minutes.
 
-
-
-# Resources
-
-
+# Sources
 [^1]: <a class="usa-external_link" href="https://codeascraft.com/2012/03/13/making-it-virtually-easy-to-deploy-on-day-one/">Etsy - Making it Virtually Easy to Deploy on Day One</a>
 [^2]: <a class="usa-external_link" href="http://code.hootsuite.com/push-to-production-on-day-1/">Hootsuite - Day 1: Push to Production</a>
