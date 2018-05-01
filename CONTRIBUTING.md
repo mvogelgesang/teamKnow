@@ -6,3 +6,4 @@ Please create a [ticket](https://github.com/mvogelgesang/teamKnow/issues/new) to
 
 ## Submitting changes
 Changes are best submitted via [Pull Request](https://github.com/mvogelgesang/teamKnow/compare) that includes a clear list of what you have added or edited. Always include clear log messages in your commits- please do not follow our past commits as examples for the future.
+
