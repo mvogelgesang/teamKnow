@@ -4,7 +4,7 @@ main:
   class: usa-grid usa-section usa-content usa-layout-docs
 ---
 {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
-{% assign resourcedata = site.data.resources | group_by: 'category' %}
+{% assign resourcedata = site.data.resources | group_by: 'category'  | sort: 'category' %}
 
 <div class="usa-layout-docs-main_content">
   {{ content }}

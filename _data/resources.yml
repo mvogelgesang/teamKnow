@@ -34,9 +34,45 @@
   href: https://www.opm.gov/policy-data-oversight/pandemic-information/work-hiring-arrangements/telework-guidance/telework-emergency-preparedness/
   external: True
   category: Continuity of Operations
-- title:
+- title: What is Knowledge Management and Why Is It Important
+  author: Zach Wahl
+  publisher: Enterprise Knowledge
+  href: https://enterprise-knowledge.com/what-is-knowledge-management-and-why-is-it-important
+  external: True
+  category: Tools
+- title: Succession Management, Developing the next generation of Federal leaders
   author:
-  publisher:
-  href:
-  external:
-  category:
+  publisher: Deliotte
+  href: https://www2.deloitte.com/content/dam/Deloitte/us/Documents/public-sector/us-fed-succession-management.pdf
+  external: True
+  category: Succession Planning
+- title: Best Practices for Succession Planning in Federal Government STEMM Positions
+  author:
+  publisher: IBM Center for The Business of Government
+  href: http://www.businessofgovernment.org/sites/default/files/Best%20Practices%20for%20Succession%20Planning%20in%20Federal%20Government%20STEMM%20Positions.pdf
+  external: True
+  category: Succession Planning
+- title: USGS Workforce and Succession Planning
+  author:
+  publisher: US Geological Survey
+  href: https://www2.usgs.gov/humancapital/sw/workforceplanning/whatisworkforcesuccession.html
+  external: True
+  category: Succession Planning
+- title: Addressing the Human Capital Crisis in the Federal Government
+  author: Jay Liebowitz
+  publisher: Taylor & Francis Group
+  href: https://www.taylorfrancis.com/books/9781136430985
+  external: True
+  category: Succession Planning
+- title: Workforce of the future, the competing forces shaping 2030
+  author:
+  publisher: PricewaterhouseCoopers
+  href: https://www.pwc.com/gx/en/services/people-organisation/publications/workforce-of-the-future.html
+  external: True
+  category: Succession Planning
+- title: It's Time for Federal Agencies to Re-Define Succession Planning
+  author: Patrick Devlin
+  publisher: Cornerstone OnDemand
+  href: https://www.cornerstoneondemand.com/rework/it%E2%80%99s-time-federal-agencies-re-define-succession-planning
+  external: True
+  category: Succession Planning
