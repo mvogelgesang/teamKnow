@@ -32,6 +32,7 @@ Identifying the right knowledge management software can have a large impact on t
 
 # Plays
 ## Quality Editing Experience
+Tools should provide users a simplified editing experience which is similar to what can be found in modern word processing software. Features such as "what you see is what you get" (WYSIWYG) editors, the ability to add images, and cross reference other content. All features should be inherent in the software and not require pivots from one system to another.
 
 ## Editable by All
 This does not mean that anyone and everyone can post an update without any review- if reviews are required, that should be built into the workflow and supported by the tool. When consuming content, the user may identify an error, unclear instructions, or even content that is out of date. They should have the ability to propose edits which clarify or correct the content. Doing so reinforces that all members of the organization are responsible and empowered to maintain this content.
@@ -54,8 +55,8 @@ This almost does not need an explanation but the number of tools and solutions i
 ![Photography taxonomy search](/teamKnow/assets/Photo-search.png)
 
 ## Content not Documents
+In keeping with the "editable by anyone" theme, knowledge content should default to types which can be edited within the software in which it is consumed. If a document is a Word file or PDF, any proposed edits require pivots to other software and then submitted back to the original writer- if known. Too often, edits will not be made or users will write their own documentation- neither of which aids others in the organization.
 
-
-# Sources 
+# Sources
 [^1]: <a class="usa-external_link" href="https://enterprise-knowledge.com/what-is-knowledge-management-and-why-is-it-important/">What is Knowledge Management and Why Is It Important</a>
 [^2]: <a class="usa-external_link" href="https://github.com/cfpb/salesforce-docs">CFPB Salesforce Development Standards</a>
