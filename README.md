@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mvogelgesang/teamKnow.svg?branch=master)](https://travis-ci.org/mvogelgesang/teamKnow)
+
 # Knowledge Management Playbook
 
 This playbook is the artifact of a Partnership for Public Service IT Leadership project with an aim of capturing contributions and plays over the long term. For more information about the IT Leaders program, checkout  [https://ourpublicservice.org/issues/leadership-development/federal-it-leaders-program.php](https://ourpublicservice.org/issues/leadership-development/federal-it-leaders-program.php).
@@ -19,4 +21,3 @@ jekyll serve
 
 # Contributing
 See [Contributing](https://github.com/mvogelgesang/teamKnow/blob/master/CONTRIBUTING.md)
-
