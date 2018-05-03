@@ -25,6 +25,7 @@ Knowledge is critical to keeping essential services operating in the event of an
 - Federal Continuity Directive 1 (FCD1) - Federal Executive Branch National Continuity Program and Requirements, Jan 2017
 - Federal Continuity Directive-2 (FCD2) - Federal Executive Branch Mission Essential Functions and Candidate Primary Mission Essential Functions Identification and Submission Process, June 2017
 
+
 In working through your COOP planning it’s imperative that the following elements are documented thoroughly and the documents are secured and accessible by those who have a need to know:
 - Delegations of Authority
 - Orders of Succession
